@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">my_biodata_alfiani</string>
+    <string name="BIODATA">BIODATA</string>
+    <string name="my_image">my_image</string>
+    <string name="name">Alfiani Permana Putri</string>
+    <string name="nim">STE202202625</string>
+    <string name="prodi">Sistem Informasi</string>
+    <string name="universitas">STMIK Widya Utama Purwokerto</string>
+</resources>
